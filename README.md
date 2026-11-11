@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm FH Maruf 👋
 
-<!--
-**fhm16/fhm16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI automations that run locally at **$0 software cost** (n8n, Ollama, Python), focused on practical problems for small businesses in Bangladesh.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it does | Stack | Status |
+|---|---|---|---|
+| [COD Fraud Risk Analyzer](https://github.com/fhm16/cod-fraud-risk-analyzer) | Flags risky Cash-on-Delivery orders before shipping and alerts the team on Slack | n8n, Ollama (Llama 3.1), Slack | Working demo, tested on synthetic data |
+
+More case studies are being documented (HR onboarding, expense & invoice tracking).
+
+## Portfolio & contact
+
+- 🌐 Portfolio: https://tremendous-cabinet-943.notion.site/AI-Automation-Portfolio-4039bf283deb80ceaa8dd2e99e019276
+- 🎥 YouTube: [FH Maruf](https://www.youtube.com/channel/UCWGl2VeFIF4xGWIdG5wKQCQ)
+- ✉️ ferdoushasanmaruf16@gmail.com
